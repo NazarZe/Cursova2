@@ -1,0 +1,142 @@
+[
+    {
+        "class": "Warrior",
+        "attributes": {
+            "vigor": 11,
+            "attunement": 8,
+            "endurance": 12,
+            "vitality": 14,
+            "strength": 13,
+            "dexterity": 13,
+            "intelligence": 9,
+            "faith": 9,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Knight",
+        "attributes": {
+            "vigor": 14,
+            "attunement": 10,
+            "endurance": 10,
+            "vitality": 14,
+            "strength": 11,
+            "dexterity": 11,
+            "intelligence": 9,
+            "faith": 11,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Wanderer",
+        "attributes": {
+            "vigor": 10,
+            "attunement": 11,
+            "endurance": 10,
+            "vitality": 14,
+            "strength": 10,
+            "dexterity": 14,
+            "intelligence": 11,
+            "faith": 8,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Thief",
+        "attributes": {
+            "vigor": 9,
+            "attunement": 11,
+            "endurance": 9,
+            "vitality": 14,
+            "strength": 9,
+            "dexterity": 15,
+            "intelligence": 12,
+            "faith": 11,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Bandit",
+        "attributes": {
+            "vigor": 12,
+            "attunement": 8,
+            "endurance": 14,
+            "vitality": 14,
+            "strength": 14,
+            "dexterity": 9,
+            "intelligence": 8,
+            "faith": 10,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Hunter",
+        "attributes": {
+            "vigor": 11,
+            "attunement": 9,
+            "endurance": 11,
+            "vitality": 14,
+            "strength": 12,
+            "dexterity": 14,
+            "intelligence": 9,
+            "faith": 9,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Sorcerer",
+        "attributes": {
+            "vigor": 8,
+            "attunement": 15,
+            "endurance": 8,
+            "vitality": 14,
+            "strength": 9,
+            "dexterity": 10,
+            "intelligence": 16,
+            "faith": 8,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Pyromancer",
+        "attributes": {
+            "vigor": 10,
+            "attunement": 12,
+            "endurance": 11,
+            "vitality": 10,
+            "strength": 12,
+            "dexterity": 9,
+            "intelligence": 12,
+            "faith": 8,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Cleric",
+        "attributes": {
+            "vigor": 12,
+            "attunement": 11,
+            "endurance": 9,
+            "vitality": 14,
+            "strength": 12,
+            "dexterity": 8,
+            "intelligence": 8,
+            "faith": 14,
+            "luck": 0
+        }
+    },
+    {
+        "class": "Deprived",
+        "attributes": {
+            "vigor": 11,
+            "attunement": 11,
+            "endurance": 11,
+            "vitality": 11,
+            "strength": 11,
+            "dexterity": 11,
+            "intelligence": 11,
+            "faith": 11,
+            "luck": 0
+        }
+    }
+]

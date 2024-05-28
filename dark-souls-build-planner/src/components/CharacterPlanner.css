@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Cinzel', serif;
+    background-image: url('darks.webp');
+    background-size: cover;
+    color: #f5f5f5;
+}
+
+.character-planner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px auto;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 90%;
+}
+
+.header {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 200px; /* Set an appropriate height */
+    background-image: url('darks2.webp');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.class-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.8);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.class-section label {
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.class-section select,
+select {
+    padding: 10px;
+    font-size: 16px;
+    background: rgba(0, 0, 0, 0.8); /* Темний фон */
+    border: 1px solid #888;
+    color: #f5f5f5;
+    border-radius: 5px;
+    outline: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+select option {
+    background: rgba(0, 0, 0, 0.8); /* Темний фон для опцій */
+    color: #f5f5f5;
+    padding: 10px;
+}
+
+select::-webkit-scrollbar {
+    width: 10px;
+}
+
+select::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.8); /* Темний фон */
+}
+
+select::-webkit-scrollbar-thumb {
+    background: #888; /* Колір смужки прокрутки */
+}
+
+select::-webkit-scrollbar-thumb:hover {
+    background: #555; /* Колір смужки прокрутки при наведенні */
+}
+
+.panel-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.panel {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 10px;
+    margin: 0 10px;
+}
+
+.attributes-section, .stats-section, .armor-section, .weapons-section, .ring-section, .total-damage-section, .movement-speed-section {
+    margin-top: 20px;
+}
+
+.attribute, .stat, .armor-item, .weapon-item, .damage, .speed {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.attribute label, .stat label, .armor-item label, .weapon-item label, .damage label, .speed label {
+    margin-right: 10px;
+}
+
+.selected-weapons table, .selected-armor table, .selected-rings table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.1);
+}
+
+.selected-weapons th, .selected-weapons td, .selected-armor th, .selected-armor td, .selected-rings th, .selected-rings td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.selected-weapons th, .selected-armor th, .selected-rings th {
+    background-color: #444;
+}
+
+h3 {
+    border-bottom: 2px solid #888;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid #888;
+    color: #f5f5f5;
+    padding: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover {
+    background: rgba(255, 255, 255, 0.2);
+}

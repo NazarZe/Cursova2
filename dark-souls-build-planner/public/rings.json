@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Ring of Favor and Protection",
+        "effects": {
+            "health": 1.2,
+            "stamina": 1.2,
+            "equipLoad": 1.2
+        }
+    },
+    {
+        "name": "Havel's Ring",
+        "effects": {
+            "equipLoad": 1.5
+        }
+    },
+    {
+        "name": "Cloranthy Ring",
+        "effects": {
+            "staminaRegen": 1.2
+        }
+    },
+    {
+        "name": "Ring of Steel Protection",
+        "effects": {
+            "physicalDefense": 50
+        }
+    },
+    {
+        "name": "Flame Stoneplate Ring",
+        "effects": {
+            "fireDefense": 50
+        }
+    },
+    {
+        "name": "Thunder Stoneplate Ring",
+        "effects": {
+            "lightningDefense": 50
+        }
+    },
+    {
+        "name": "Magic Stoneplate Ring",
+        "effects": {
+            "magicDefense": 50
+        }
+    },
+    {
+        "name": "Speckled Stoneplate Ring",
+        "effects": {
+            "physicalDefense": 25,
+            "fireDefense": 25,
+            "lightningDefense": 25,
+            "magicDefense": 25
+        }
+    },
+    {
+        "name": "Bloodbite Ring",
+        "effects": {
+            "bleedResist": 40
+        }
+    },
+    {
+        "name": "Poisonbite Ring",
+        "effects": {
+            "poisonResist": 40
+        }
+    },
+    {
+        "name": "Cursebite Ring",
+        "effects": {
+            "curseResist": 40
+        }
+    },
+    {
+        "name": "Wolf Ring",
+        "effects": {
+            "poise": 40
+        }
+    },
+    {
+        "name": "Bellowing Dragoncrest Ring",
+        "effects": {
+            "magicDamage": 1.2
+        }
+    },
+    {
+        "name": "Dusk Crown Ring",
+        "effects": {
+            "mana": 1.5
+        }
+    },
+    {
+        "name": "Red Tearstone Ring",
+        "effects": {
+            "attackPower": 1.5
+        }
+    },
+    {
+        "name": "Blue Tearstone Ring",
+        "effects": {
+            "defense": 1.5
+        }
+    },
+    {
+        "name": "Slumbering Dragoncrest Ring",
+        "effects": {
+            "stealth": true
+        }
+    },
+    {
+        "name": "Hawk Ring",
+        "effects": {
+            "rangedAttackDistance": 1.5
+        }
+    },
+    {
+        "name": "Hornet Ring",
+        "effects": {
+            "criticalDamage": 1.3
+        }
+    },
+    {
+        "name": "Leo Ring",
+        "effects": {
+            "thrustDamage": 1.1
+        }
+    },
+    {
+        "name": "Ring of Sacrifice",
+        "effects": {
+            "keepSouls": true
+        }
+    },
+    {
+        "name": "Rare Ring of Sacrifice",
+        "effects": {
+            "keepSouls": true,
+            "curseResist": 100
+        }
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Helm of Favor",
+        "type": "Helm",
+        "def": {
+            "physical": 24,
+            "strike": 20,
+            "slash": 22,
+            "thrust": 23,
+            "magic": 14,
+            "fire": 11,
+            "lightning": 13
+        },
+        "resist": {
+            "poison": 10,
+            "bleed": 12,
+            "curse": 8
+        },
+        "poise": 5,
+        "weight": 4.5
+    },
+    {
+        "name": "Armor of Favor",
+        "type": "Chest",
+        "def": {
+            "physical": 60,
+            "strike": 55,
+            "slash": 58,
+            "thrust": 57,
+            "magic": 35,
+            "fire": 32,
+            "lightning": 34
+        },
+        "resist": {
+            "poison": 30,
+            "bleed": 32,
+            "curse": 20
+        },
+        "poise": 15,
+        "weight": 12.0
+    },
+    {
+        "name": "Gauntlets of Favor",
+        "type": "Gauntlets",
+        "def": {
+            "physical": 24,
+            "strike": 20,
+            "slash": 22,
+            "thrust": 23,
+            "magic": 14,
+            "fire": 11,
+            "lightning": 13
+        },
+        "resist": {
+            "poison": 10,
+            "bleed": 12,
+            "curse": 8
+        },
+        "poise": 5,
+        "weight": 4.5
+    },
+    {
+        "name": "Leggings of Favor",
+        "type": "Leggings",
+        "def": {
+            "physical": 36,
+            "strike": 32,
+            "slash": 34,
+            "thrust": 33,
+            "magic": 21,
+            "fire": 18,
+            "lightning": 20
+        },
+        "resist": {
+            "poison": 15,
+            "bleed": 17,
+            "curse": 12
+        },
+        "poise": 10,
+        "weight": 7.0
+    },
+    {
+        "name": "Helm of the Wise",
+        "type": "Helm",
+        "def": {
+            "physical": 18,
+            "strike": 16,
+            "slash": 17,
+            "thrust": 18,
+            "magic": 25,
+            "fire": 10,
+            "lightning": 15
+        },
+        "resist": {
+            "poison": 8,
+            "bleed": 9,
+            "curse": 10
+        },
+        "poise": 3,
+        "weight": 3.0
+    },
+    {
+        "name": "Armor of the Wise",
+        "type": "Chest",
+        "def": {
+            "physical": 45,
+            "strike": 40,
+            "slash": 42,
+            "thrust": 43,
+            "magic": 55,
+            "fire": 25,
+            "lightning": 35
+        },
+        "resist": {
+            "poison": 20,
+            "bleed": 22,
+            "curse": 25
+        },
+        "poise": 10,
+        "weight": 8.0
+    },
+    {
+        "name": "Gauntlets of the Wise",
+        "type": "Gauntlets",
+        "def": {
+            "physical": 18,
+            "strike": 16,
+            "slash": 17,
+            "thrust": 18,
+            "magic": 25,
+            "fire": 10,
+            "lightning": 15
+        },
+        "resist": {
+            "poison": 8,
+            "bleed": 9,
+            "curse": 10
+        },
+        "poise": 3,
+        "weight": 3.0
+    },
+    {
+        "name": "Leggings of the Wise",
+        "type": "Leggings",
+        "def": {
+            "physical": 27,
+            "strike": 24,
+            "slash": 26,
+            "thrust": 26,
+            "magic": 35,
+            "fire": 15,
+            "lightning": 22
+        },
+        "resist": {
+            "poison": 12,
+            "bleed": 13,
+            "curse": 15
+        },
+        "poise": 6,
+        "weight": 5.0
+    },
+    {
+        "name": "Helm of the Warrior",
+        "type": "Helm",
+        "def": {
+            "physical": 30,
+            "strike": 25,
+            "slash": 28,
+            "thrust": 29,
+            "magic": 12,
+            "fire": 20,
+            "lightning": 15
+        },
+        "resist": {
+            "poison": 10,
+            "bleed": 14,
+            "curse": 8
+        },
+        "poise": 6,
+        "weight": 6.0
+    },
+    {
+        "name": "Armor of the Warrior",
+        "type": "Chest",
+        "def": {
+            "physical": 75,
+            "strike": 70,
+            "slash": 72,
+            "thrust": 73,
+            "magic": 25,
+            "fire": 35,
+            "lightning": 30
+        },
+        "resist": {
+            "poison": 25,
+            "bleed": 30,
+            "curse": 15
+        },
+        "poise": 18,
+        "weight": 15.0
+    },
+    {
+        "name": "Gauntlets of the Warrior",
+        "type": "Gauntlets",
+        "def": {
+            "physical": 30,
+            "strike": 25,
+            "slash": 28,
+            "thrust": 29,
+            "magic": 12,
+            "fire": 20,
+            "lightning": 15
+        },
+        "resist": {
+            "poison": 10,
+            "bleed": 14,
+            "curse": 8
+        },
+        "poise": 6,
+        "weight": 6.0
+    },
+    {
+        "name": "Leggings of the Warrior",
+        "type": "Leggings",
+        "def": {
+            "physical": 45,
+            "strike": 40,
+            "slash": 43,
+            "thrust": 44,
+            "magic": 18,
+            "fire": 25,
+            "lightning": 20
+        },
+        "resist": {
+            "poison": 15,
+            "bleed": 18,
+            "curse": 10
+        },
+        "poise": 10,
+        "weight": 10.0
+    }
+]
